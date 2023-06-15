@@ -1,0 +1,1 @@
+Alberga componentes puramente presentacionales que pintan la estructura básica de las distintas vistas / rutas de la aplicación.

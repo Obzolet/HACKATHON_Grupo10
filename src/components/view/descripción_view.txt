@@ -1,0 +1,1 @@
+Se ubican las vistas de la aplicación, cada una de ellas asociadas a una ruta de la aplicación.

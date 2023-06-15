@@ -1,0 +1,3 @@
+Dentro de esta carpeta ubico los componentes que envuelven a los de la librería React Routers.
+
+Y que se encargan de además de pinta el componente asociado a la ruta, controlar la lógica de acceso, evitando que usuarios sin sesión accedan a zonas privadas.

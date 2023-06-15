@@ -1,0 +1,1 @@
+Contiene las propiedades de objetos en general.

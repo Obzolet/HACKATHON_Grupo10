@@ -1,0 +1,1 @@
+Dentro de esta carpeta ubico las imágenes de la aplicación, como por ejemplo logos o gráficos SVG.

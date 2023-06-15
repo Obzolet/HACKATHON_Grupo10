@@ -1,0 +1,1 @@
+Aquí se encuentran utilidades en forma de función que se usa a lo largo de la aplicación.

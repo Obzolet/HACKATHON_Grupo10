@@ -1,0 +1,3 @@
+La API Context se sitúa aquí cada uno de los contextos que defina para compartir estado global entre los distintos componentes de la aplicación.
+
+Los contextos aquí definidos exportan siempre dos valores, el propio Contexto generado mediante la instrucción React.createContext y un ContextProvider que definirá acciones específicas para el contexto
